@@ -1,0 +1,32 @@
+- [[Lunacrush]]
+    - **TL;DR**
+        - Good for Sentiment Analysis
+        - Offers some Interesting Social indicators on how we [compare to others](https://lunarcrush.com/compare?symbols=atom%2Crune) or the [rest of the market](https://lunarcrush.com/markets?rpp=50) across Twitter, Reddit, YouTube and Medium.
+        - Some Metrics are around determining the correlation of social data to the coin price/volume. Unsure on how useful these would be.
+        - Free? I can't seem to find a paid version
+        - No simple exporting option (CSV), but Websocket API for Real time data 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmariodigital%2FNdgQYzADi-.png?alt=media&token=49ccbdc4-0d03-4a77-b9b9-43a6af1bfeda)
+    - **Features**
+        - Telegram Alerts for certain metrics
+        - **Feeds**
+            - Broad Overview of related Keywords
+            - List of the most Influential people that are tweeting about us
+            - List of Tweets about us, with the most [engagement](https://intercom.help/lunarcrush/en/articles/3636623-how-is-social-engagement-calculated) and ranked by highest [Social Score](https://intercom.help/lunarcrush/en/articles/3513260-how-does-lunarcrush-calculate-social-influence)
+        - **Galaxy Score**
+            - The Galaxy Score™ indicates how healthy a coin is by looking at combined performance across markets and deep social engagement.
+            - Average Sentiment
+                - Overall bullishness or bearishness of all collected social posts
+            - Social Impact Score 
+                - A score of the volume/interaction/impact of social to give a sense of the size of the market or awareness of the coin.
+            - [Galaxy Score™ | LunarCRUSH Help Center (intercom.help)](https://intercom.help/lunarcrush/en/collections/923000-galaxy-score)
+        - **AltRank**
+            - AltRank™ is a unique measurement that combines altcoin price performance relative to Bitcoin and social indicators.
+            - Social Volume (Mentions)
+            - Social Score
+            - [LunarCRUSH ALTRank™ | LunarCRUSH Help Center (intercom.help)](https://intercom.help/lunarcrush/en/articles/3652367-lunarcrush-altrank)
+        - **Example using Lunarcrush with** [[Thorchain]]
+            - [RUNE - Thorchain Insights | LunarCRUSH](https://lunarcrush.com/coins/rune/thorchain?metric=alt_rank&interval=1%20Week)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmariodigital%2FKKU9rjuzRy.png?alt=media&token=83fedc8f-ceb3-448f-95b0-3d80543505f8)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmariodigital%2Fno706r4I8-.png?alt=media&token=7ee90d9f-28df-49b6-845c-ead786ad2741)
+    - **Appendix**
+        - [Google Form to get listed on Lunarcrush](https://docs.google.com/forms/d/e/1FAIpQLScpYqdC34M6D5b7QYMBeo9T3pcfAHczKTFMGzOpJsu4mm4trQ/viewform)
